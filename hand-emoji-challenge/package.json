@@ -1,0 +1,28 @@
+{
+  "name": "hand-challenge",
+  "version": "1.0.0",
+  "description": "Resolving a JS challenge from https://github.com/jesus-seijas-sp/hand-challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jchurin/hand-challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jchurin/hand-challenge/issues"
+  },
+  "homepage": "https://github.com/jchurin/hand-challenge#readme",
+  "devDependencies": {
+    "eslint": "8.28.0",
+    "jest": "29.3.1",
+    "standard": "17.0.0"
+  },
+  "eslintConfig": {
+    "extends": "./node_modules/standard/eslintrc.json"
+  }
+}
