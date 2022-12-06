@@ -1,0 +1,1 @@
+Take first 100 characters from a string, but don't cut the last word.
